@@ -35,3 +35,4 @@ Medicine 2017, 96(36):e8037. [\[Link\]](https://doi.org/10.1097/MD.0000000000008
 **Decision analysis of intracranial monitoring in non-lesional epilepsy.**  
 Seizure 2016, 40:59&ndash;70. [\[Link\]](https://doi.org/10.1016/j.seizure.2016.06.010)
 
+[\[Back to homepage\]](https://gladiahotan.github.io)
