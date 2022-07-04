@@ -3,19 +3,19 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 
 ## Education
 - PhD, Brain and Cognitive Sciences, Massachusetts Institute of Technology [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)  
-*Sep 2014&ndash;Aug 2020*
+*Sep 2014 &ndash; Aug 2020*
 
 - MIT Sloan Healthcare Certificate [\[Project\]](https://mitsloan.mit.edu/sites/default/files/inline-files/H-Lab%202019%20-%20Boston%20Medical%20Center%20poster.pdf)  
-*Sep 2019&ndash;May 2020*
+*Sep 2019 &ndash; May 2020*
 
 - BS, Physics (with Honor), California Institute of Technology [\[Thesis\]](https://thesis.library.caltech.edu/10705/)  
-*Sep 2009&ndash;May 2013*
+*Sep 2009 &ndash; May 2013*
 
 ## Work Experience
 - Research Scientist, Institute of High Performance Computing, A\*STAR  
-*Nov 2020&ndash;present*
+*Nov 2020 &ndash; present*
 - Research Engineer, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR  
-*Jul 2013&ndash;Jul 2014*
+*Jul 2013 &ndash; Jul 2014*
 
 ## Publications
 [List of publications](https://gladiahotan.github.io/publications)  
