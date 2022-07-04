@@ -4,7 +4,7 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 ## Education
 - PhD, Brain and Cognitive Sciences, Massachusetts Institute of Technology (Sep 2014&ndash;Aug 2020) [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)
 - MIT Sloan Healthcare Certificate (Sep 2019&ndash;May 2020) [\[Project\]](https://mitsloan.mit.edu/sites/default/files/inline-files/H-Lab%202019%20-%20Boston%20Medical%20Center%20poster.pdf)
-- BS, Physics, California Institute of Technology (Sep 2009&ndash;May 2013) [\[Thesis\]](https://thesis.library.caltech.edu/10705/)
+- BS, Physics (with Honor), California Institute of Technology (Sep 2009&ndash;May 2013) [\[Thesis\]](https://thesis.library.caltech.edu/10705/)
 
 ## Work Experience
 - Research Scientist, Institute of High Performance Computing, A\*STAR (Nov 2020&ndash;present)
