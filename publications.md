@@ -1,3 +1,5 @@
+[Home](https://gladiahotan.github.io)
+
 ## Publications
 - Manzano GS, Holroyd KB, Kaplan T, Bhattacharyya S, Chitnis T, Hotan GC, Zurawski J, Galetta KM, Mateen FJ.  
 **Disease Modifying Therapy Management of Multiple Sclerosis after Stem Cell Therapies: A Retrospective Case Series.**  
@@ -34,5 +36,3 @@ Medicine 2017, 96(36):e8037. [\[Link\]](https://doi.org/10.1097/MD.0000000000008
 -	Hotan GC, Struck AF, Bianchi MT, Eskandar EN, Cole AJ, Westover MB.  
 **Decision analysis of intracranial monitoring in non-lesional epilepsy.**  
 Seizure 2016, 40:59&ndash;70. [\[Link\]](https://doi.org/10.1016/j.seizure.2016.06.010)
-
-[\[Back to homepage\]](https://gladiahotan.github.io)
