@@ -21,7 +21,5 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 [List of publications](https://gladiahotan.github.io/publications)  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=r9zzv4EAAAAJ)
 
-
-
-[comment]: # (## Curriculum Vitae)
-
+## Curriculum Vitae
+[CV PDF](https://gladiahotan.github.io/CV_GladiaHotan_forWebsite_20220704.pdf)
