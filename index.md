@@ -1,5 +1,3 @@
-[Home](https://gladiahotan.github.io)
-
 ## About Me
 I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) under the Brain-Body Initiative. Our current project involves seeking to understand the neural correlates of stress so as to pre-empt and reduce workplace burnout and chronic stress. For my PhD, I worked on improving methods for EEG source localization to characterize brain states during anesthesia, sedation and sleep under the mentorship of [Dr Patrick Purdon](https://purdonlab.mgh.harvard.edu/) and [Dr Emery Brown](https://picower.mit.edu/emery-n-brown) at the Massachusetts Institute of Technology. I am also interested in clinical data analytics, having done analytics work in Python for numerous publications in clinical neurology with the [Global Neurology Research Group](https://www.massgeneral.org/neurology/research/global-neurology-research-group) at the Massachusetts General Hospital.
 
