@@ -13,5 +13,5 @@ I am a research scientist at the Institute of High Performance Computing, Agency
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=r9zzv4EAAAAJ)
 
-## Curriculum Vitae
+[comment]: # (## Curriculum Vitae)
 
