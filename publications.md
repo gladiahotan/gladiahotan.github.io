@@ -29,7 +29,7 @@ Seizure 2019, 71:93&ndash;99. [\[Link\]](https://n.neurology.org/content/92/15_s
 
 - Mateen FJ, Manalo NC, Grundy SJ, Houghton MA, Hotan GC, Erickson H, Videnovic A.  
 **Light therapy for multiple sclerosis-associated fatigue: Study protocol for a randomized control trial.**  
-Medicine 2017, 96:36. [\[Link\]](https://doi.org/10.1097/MD.0000000000008037)
+Medicine 2017, 96(36):e8037. [\[Link\]](https://doi.org/10.1097/MD.0000000000008037)
 
 -	Hotan GC, Struck AF, Bianchi MT, Eskandar EN, Cole AJ, Westover MB.  
 **Decision analysis of intracranial monitoring in non-lesional epilepsy.**  
