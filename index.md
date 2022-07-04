@@ -11,7 +11,7 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 - Research Engineer, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR (Jul 2013&ndash;Jul 2014)
 
 ## Publications
-[List of publications](https://gladiahotan.github.io/publications)
+[List of publications](https://gladiahotan.github.io/publications)  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=r9zzv4EAAAAJ)
 
 
