@@ -1,7 +1,3 @@
-layout: page
-title: "Publications"
-permalink: /publications/
-
 ## Publications
 - Manzano GS, Holroyd KB, Kaplan T, Bhattacharyya S, Chitnis T, Hotan GC, Zurawski J, Galetta KM, Mateen FJ.  
 **Disease Modifying Therapy Management of Multiple Sclerosis after Stem Cell Therapies: A Retrospective Case Series.**  
