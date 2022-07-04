@@ -1,5 +1,5 @@
 ## About Me
-I am a research scientist at the Institute of High Performance Computing, Agency for Science, Technology and Research (A\*STAR), Singapore.
+I am a research scientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore.
 
 ## Education
 - PhD, Brain and Cognitive Sciences, Massachusetts Institute of Technology (Sep 2014 - Aug 2020) [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)
