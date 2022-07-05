@@ -14,6 +14,7 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 ## Work Experience
 - **Research Scientist**, Institute of High Performance Computing, A\*STAR  
 *Nov 2020 &ndash; present*
+
 - **Research Engineer**, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR  
 *Jul 2013 &ndash; Jul 2014*
 
