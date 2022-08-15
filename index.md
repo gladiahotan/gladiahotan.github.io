@@ -21,3 +21,21 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 
 ## Curriculum Vitae
 [CV](https://gladiahotan.github.io/CV_GladiaHotan.pdf)
+
+## Contact Me
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xvoyobww"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
