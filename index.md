@@ -24,7 +24,7 @@ I am also interested in clinical data analytics, having done analytics work in P
 *Jul 2013&ndash;Jul 2014*
 
 ## Publications
-[List of publications](https://gladiahotan.github.io/publications)  
+<!--[List of publications](https://gladiahotan.github.io/publications)-->  
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=r9zzv4EAAAAJ)
 
 ## Curriculum Vitae
