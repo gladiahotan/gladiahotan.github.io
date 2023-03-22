@@ -1,5 +1,13 @@
 ## About Me
-I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) under the Brain-Body Initiative. Our current project involves seeking to understand the neural correlates of stress so as to pre-empt and reduce workplace burnout and chronic stress. For my PhD, I worked on improving methods for EEG source localization to characterize brain states during anesthesia, sedation and sleep under the mentorship of [Dr Patrick Purdon](https://purdonlab.mgh.harvard.edu/) and [Dr Emery Brown](https://picower.mit.edu/emery-n-brown) at the Massachusetts Institute of Technology. I am also interested in clinical data analytics, having done analytics work in Python for numerous publications in clinical neurology with [Dr Farrah Mateen](https://www.massgeneral.org/doctors/19421/farrah-mateen)'s [Global Neurology Research Group](https://www.massgeneral.org/neurology/research/global-neurology-research-group) at the Massachusetts General Hospital.
+I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) under the Brain-Body Initiative. 
+Current projects: 
+1) Studying the neural correlates of stress in a nursing student population to reduce workplace burnout and chronic stress
+2) Studying the behavioural and neural correlates of gaming addiction to reduce the risk of addiction
+3) Finding behavioural correlates of biological age to understand factors which contribute to healthy ageing
+
+For my PhD, I worked on improving methods for EEG source localization to characterize brain states during anesthesia, sedation and sleep under the mentorship of [Dr Patrick Purdon](https://purdonlab.mgh.harvard.edu/) and [Dr Emery Brown](https://picower.mit.edu/emery-n-brown) at the Massachusetts Institute of Technology. 
+
+I am also interested in clinical data analytics, having done analytics work in Python for numerous publications in clinical neurology with [Dr Farrah Mateen](https://www.massgeneral.org/doctors/19421/farrah-mateen)'s [Global Neurology Research Group](https://www.massgeneral.org/neurology/research/global-neurology-research-group) at the Massachusetts General Hospital.
 
 ## Education
 - **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)  
