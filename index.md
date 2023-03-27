@@ -1,9 +1,9 @@
 ## About Me
 I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) under the Brain-Body Initiative. 
 Current projects: 
-1) Studying the neural correlates of stress in a nursing student population to reduce workplace burnout and chronic stress
-2) Studying the behavioural and neural correlates of gaming addiction to reduce the risk of addiction
-3) Studying the behavioural correlates of biological age to understand factors which contribute to healthy ageing
+- Studying the neural correlates of stress in a nursing student population to reduce workplace burnout and chronic stress
+- Studying the behavioural and neural correlates of gaming addiction to reduce the risk of addiction
+- Studying the behavioural correlates of biological age to understand factors which contribute to healthy ageing
 
 For my PhD, I worked on improving methods for EEG source localization to characterize brain states during anesthesia, sedation and sleep under the mentorship of [Dr Patrick Purdon](https://purdonlab.mgh.harvard.edu/) and [Dr Emery Brown](https://picower.mit.edu/emery-n-brown) at the Massachusetts Institute of Technology. 
 
