@@ -31,3 +31,5 @@ I am also interested in clinical data analytics, having done analytics work in P
 ## Curriculum Vitae
 [CV](https://gladiahotan.github.io/CV_GladiaHotan.pdf)
 
+[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
+
