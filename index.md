@@ -1,6 +1,7 @@
 ## About Me
 I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) under the Brain-Body Initiative. 
-Current projects: 
+
+Current projects (selected): 
 - Studying the neural correlates of stress in a nursing student population to reduce workplace burnout and chronic stress
 - Studying the behavioural and neural correlates of gaming addiction to reduce the risk of addiction
 - Studying the behavioural correlates of biological age to understand factors which contribute to healthy ageing
