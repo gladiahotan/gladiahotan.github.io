@@ -15,8 +15,8 @@ For my PhD, I worked on improving methods for EEG source localization to charact
 I am also interested in clinical data analytics, having done analytics work in Python for numerous publications in clinical neurology with [Dr Farrah Mateen](https://www.massgeneral.org/doctors/19421/farrah-mateen)'s [Global Neurology Research Group](https://www.massgeneral.org/neurology/research/global-neurology-research-group) at the Massachusetts General Hospital.
 
 ## Education
-- **MBA**, National University of Singapore
-Specialization in Healthcare Management
+- **MBA**, National University of Singapore <br />
+Specialization in Healthcare Management <br />
 *Aug 2023&ndash;present*
 - **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)  
 *Sep 2014&ndash;Aug 2020*
