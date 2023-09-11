@@ -1,5 +1,5 @@
 ## About Me
-![](docs/assets/Pic_GladiaHotan2_cropped.jpg width="75")
+![](docs/assets/Pic_GladiaHotan2_cropped.jpg | width=150)
 
 [LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
 
