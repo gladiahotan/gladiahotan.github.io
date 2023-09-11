@@ -1,5 +1,4 @@
 ## About Me
-#![](docs/assets/Pic_GladiaHotan2_cropped.jpg)
 <img src=docs/assets/Pic_GladiaHotan2_cropped.jpg width=50% height=50%>
 
 [LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
