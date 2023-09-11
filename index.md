@@ -1,4 +1,6 @@
 ## About Me
+![Pic](/gladiahotan.github.io/docs/assets/Pic_GladiaHotan2_cropped.jpg)
+
 [LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
 
 I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) under the Brain-Body Initiative. 
