@@ -1,5 +1,5 @@
 ## About Me
-![Pic](/gladiahotan.github.io/docs/assets/Pic_GladiaHotan2_cropped.jpg)
+![](docs/assets/Pic_GladiaHotan2_cropped.jpg)
 
 [LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
 
