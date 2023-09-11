@@ -1,9 +1,7 @@
 ## About Me
 <img src=Pic_GladiaHotan.jpg width=30% height=30%>
 
-[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
-
-I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) under the Brain-Body Initiative. 
+I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing). 
 
 Current projects (selected): 
 - Studying the neural correlates of stress in a nursing student population to reduce workplace burnout and chronic stress
@@ -36,6 +34,9 @@ Specialization in Healthcare Management <br />
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=r9zzv4EAAAAJ)
 
 ## Curriculum Vitae
+[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
+
 [CV](https://gladiahotan.github.io/CV_GladiaHotan.pdf)
+
 
 
