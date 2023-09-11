@@ -16,6 +16,7 @@ I am also interested in clinical data analytics, having done analytics work in P
 
 ## Education
 - **MBA**, National University of Singapore
+  Specialization in Healthcare Management
 *Aug 2023&ndash;present*
 - **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)  
 *Sep 2014&ndash;Aug 2020*
