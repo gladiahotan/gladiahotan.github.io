@@ -5,9 +5,6 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 Current projects (selected): 
 - Studying the neural correlates of stress in a nursing student population to reduce workplace burnout and chronic stress
 - Studying the behavioural and neural correlates of gaming addiction to reduce the risk of addiction
-- Studying the behavioural correlates of biological age to understand factors which contribute to healthy ageing
-
-For my PhD, I worked on improving methods for EEG source localization to characterize brain states during anesthesia, sedation and sleep under the mentorship of [Dr Patrick Purdon](https://purdonlab.mgh.harvard.edu/) and [Dr Emery Brown](https://picower.mit.edu/emery-n-brown) at the Massachusetts Institute of Technology. 
 
 I am also interested in clinical data analytics, having done analytics work in Python for numerous publications in clinical neurology with [Dr Farrah Mateen](https://www.massgeneral.org/doctors/19421/farrah-mateen)'s [Global Neurology Research Group](https://www.massgeneral.org/neurology/research/global-neurology-research-group) at the Massachusetts General Hospital.
 
