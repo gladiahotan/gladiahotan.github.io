@@ -1,16 +1,12 @@
 ## About Me
 
-I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing). 
-
-Current projects (selected): 
-- Studying the neural correlates of stress in a nursing student population to reduce workplace burnout and chronic stress
-- Studying the behavioural and neural correlates of gaming addiction to reduce the risk of addiction
+I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) on behavioural and neuroimaging studies. 
 
 I am also interested in clinical data analytics, having done analytics work in Python for numerous publications in clinical neurology with [Dr Farrah Mateen](https://www.massgeneral.org/doctors/19421/farrah-mateen)'s [Global Neurology Research Group](https://www.massgeneral.org/neurology/research/global-neurology-research-group) at the Massachusetts General Hospital.
 
 ## Education
 - **MBA**, National University of Singapore <br />
-Specialization in Healthcare Management <br />
+Specializations in Healthcare Management and Consulting <br />
 *Aug 2023&ndash;present*
 - **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)  
 *Sep 2014&ndash;Aug 2020*
