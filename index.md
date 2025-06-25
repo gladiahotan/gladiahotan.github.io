@@ -6,13 +6,9 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 ## Education
 - **MBA**, National University of Singapore <br />
 Specializations in Consulting and Healthcare Management <br />
-*Aug 2023&ndash;present*
 - **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology
-*Sep 2014&ndash;Aug 2020*
 - **MIT Sloan Healthcare Certificate**, Massachusetts Institute of Technology
-*Sep 2019&ndash;May 2020*
 - **BS, Physics (with Honor)**, California Institute of Technology
-*Sep 2009&ndash;May 2013*
 
 ## Work Experience
 - **Research Scientist**, Institute of High Performance Computing, A\*STAR  
