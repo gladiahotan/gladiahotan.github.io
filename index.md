@@ -11,7 +11,7 @@ I am currently pursuing a part-time MBA at the National University of Singapore 
 - **BS, Physics (with Honor)**, California Institute of Technology
 
 ## Work Experience
-- **Research Scientist**, Institute of High Performance Computing, A\*STAR  
+- **Scientist**, Institute of High Performance Computing, A\*STAR  
 *Nov 2020&ndash;present*
 - **Research Engineer**, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR  
 *Jul 2013&ndash;Jul 2014*
