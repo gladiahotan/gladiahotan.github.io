@@ -2,17 +2,16 @@
 
 I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) on behavioural and neuroimaging studies. 
 
-I am also interested in clinical data analytics, having done analytics work in Python for numerous publications in clinical neurology with [Dr Farrah Mateen](https://www.massgeneral.org/doctors/19421/farrah-mateen)'s [Global Neurology Research Group](https://www.massgeneral.org/neurology/research/global-neurology-research-group) at the Massachusetts General Hospital.
 
 ## Education
 - **MBA**, National University of Singapore <br />
-Specializations in Healthcare Management and Consulting <br />
+Specializations in Consulting and Healthcare Management <br />
 *Aug 2023&ndash;present*
-- **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology [\[Thesis\]](https://dspace.mit.edu/handle/1721.1/129230)  
+- **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology
 *Sep 2014&ndash;Aug 2020*
-- **MIT Sloan Healthcare Certificate**, Massachusetts Institute of Technology [\[Project\]](https://mitsloan.mit.edu/sites/default/files/inline-files/H-Lab%202019%20-%20Boston%20Medical%20Center%20poster.pdf)  
+- **MIT Sloan Healthcare Certificate**, Massachusetts Institute of Technology
 *Sep 2019&ndash;May 2020*
-- **BS, Physics (with Honor)**, California Institute of Technology [\[Thesis\]](https://thesis.library.caltech.edu/10705/)  
+- **BS, Physics (with Honor)**, California Institute of Technology
 *Sep 2009&ndash;May 2013*
 
 ## Work Experience
