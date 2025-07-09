@@ -4,6 +4,10 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 
 I am currently pursuing a part-time MBA at the National University of Singapore (NUS), specialising in Consulting and Healthcare Management. I recently initiated and led a committee to organise the inaugural NUS MBA Healthcare Case Competition. The competition attracted 128 participants from 26 schools across 13 countries. [[LinkedIn post]](https://www.linkedin.com/posts/gladia-hotan_the-inaugural-nus-mba-healthcare-case-competition-activity-7335156970389209088-kGSn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1jWbMBaDghXMluPTIDn405-skklB8mufI)
 
+[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
+
+[CV](https://gladiahotan.github.io/CV_GladiaHotan_web.pdf)
+
 ## Education
 - **MBA**, National University of Singapore (Specialisations: Consulting, Healthcare Management)
 - **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology
@@ -15,15 +19,6 @@ I am currently pursuing a part-time MBA at the National University of Singapore 
 *Nov 2020&ndash;present*
 - **Research Engineer**, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR  
 *Jul 2013&ndash;Jul 2014*
-
-## Publications
-<!--[List of publications](https://gladiahotan.github.io/publications)-->  
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=r9zzv4EAAAAJ)
-
-## Curriculum Vitae
-[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
-
-[CV](https://gladiahotan.github.io/CV_GladiaHotan_web.pdf)
 
 
 
