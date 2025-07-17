@@ -17,8 +17,10 @@ Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248
 *Jul 2025&ndash;present*
 - **Scientist**, Institute of High Performance Computing, A\*STAR  
 *Nov 2020&ndash;present*
-- **Research Engineer**, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR  
-*Jul 2013&ndash;Jul 2014*
+- **Research Engineer**, Institute for Infocomm Research, A\*STAR  
+*Feb 2014&ndash;Jul 2014*
+- **Research Engineer**, Institute of Microelectronics, A\*STAR  
+*Jul 2013&ndash;Jan 2014*
 
 ## Curriculum Vitae
 [CV](https://gladiahotan.github.io/CV_GladiaHotan_web.pdf) 
