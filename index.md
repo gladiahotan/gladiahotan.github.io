@@ -15,7 +15,7 @@ I am currently pursuing a part-time MBA at the National University of Singapore 
 - **BS, Physics (with Honor)**, California Institute of Technology
 
 ## Work Experience
-- **Adjunct Assistant Professor**, Singapore University of Technology and Design
+- **Adjunct Assistant Professor**, Singapore University of Technology and Design  
 *Jul 2025&ndash;present*
 - **Scientist**, Institute of High Performance Computing, A\*STAR  
 *Nov 2020&ndash;present*
