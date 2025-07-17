@@ -23,6 +23,6 @@ Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248
 *Jul 2013&ndash;Jan 2014*
 
 ## Curriculum Vitae
-[CV](https://gladiahotan.github.io/CV_GladiaHotan_web.pdf) 
+[CV](https://gladiahotan.github.io/CV_GladiaHotan.pdf) 
 
 
