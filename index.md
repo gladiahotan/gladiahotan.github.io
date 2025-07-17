@@ -4,7 +4,7 @@ I am a computational neuroscientist at the Institute of High Performance Computi
 
 I am currently pursuing a part-time MBA at the National University of Singapore (NUS) with dual specializations in Consulting and Healthcare Management. I recently initiated and led a committee to organize the first-ever NUS MBA Healthcare Case Competition. The competition attracted 128 participants from 26 schools across 13 countries. [[LinkedIn post]](https://www.linkedin.com/posts/gladia-hotan_the-inaugural-nus-mba-healthcare-case-competition-activity-7335156970389209088-kGSn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1jWbMBaDghXMluPTIDn405-skklB8mufI)
 
-My [LinkedIn:](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
+Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248/).
 
 ## Education
 - **MBA**, National University of Singapore (Specializations: Consulting, Healthcare Management)
