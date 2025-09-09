@@ -14,7 +14,7 @@ Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248
 
 ## Work Experience
 - **Adjunct Assistant Professor**, Singapore University of Technology and Design  
-*Jul 2025&ndash;present*
+*Jul 2025&ndash;Aug 2025*
 - **Scientist**, Institute of High Performance Computing, A\*STAR  
 *Nov 2020&ndash;present*
 - **Research Engineer**, Institute for Infocomm Research, A\*STAR  
