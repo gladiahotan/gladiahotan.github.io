@@ -7,20 +7,22 @@ I am currently pursuing a part-time MBA at the National University of Singapore 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248/).
 
 ## Education
-- **MBA**, National University of Singapore (Specializations: Consulting, Healthcare Management)
-- **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology
-- **MIT Sloan Healthcare Certificate**, Massachusetts Institute of Technology
-- **BS, Physics (with Honor)**, California Institute of Technology
+- **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology  
+*Sep 2014&ndash;Aug 2020*
+- **MIT Sloan Healthcare Certificate**, Massachusetts Institute of Technology  
+*Sep 2019&ndash;May 2020*
+- **MBA**, National University of Singapore (Specializations in Consulting and Healthcare Management)  
+*Aug 2023&ndash;present*
+- **BS, Physics (with Honor)**, California Institute of Technology  
+*Sep 2009&ndash;May 2013*
 
 ## Work Experience
 - **Adjunct Assistant Professor**, Singapore University of Technology and Design  
 *Jul 2025&ndash;Aug 2025*
 - **Scientist**, Institute of High Performance Computing, A\*STAR  
 *Nov 2020&ndash;present*
-- **Research Engineer**, Institute for Infocomm Research, A\*STAR  
-*Feb 2014&ndash;Jul 2014*
-- **Research Engineer**, Institute of Microelectronics, A\*STAR  
-*Jul 2013&ndash;Jan 2014*
+- **Research Engineer**, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR  
+*Jul 2013&ndash;Jul 2014*
 
 ## Curriculum Vitae
 [CV](https://gladiahotan.github.io/CV_GladiaHotan.pdf) 
