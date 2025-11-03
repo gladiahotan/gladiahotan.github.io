@@ -7,12 +7,12 @@ I am currently pursuing a part-time MBA at the National University of Singapore 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248/).
 
 ## Education
+- **MBA (part-time)**, National University of Singapore (Specializations in Consulting and Healthcare Management)  
+*Aug 2023&ndash;present*
 - **PhD, Brain and Cognitive Sciences**, Massachusetts Institute of Technology  
 *Sep 2014&ndash;Aug 2020*
 - **MIT Sloan Healthcare Certificate**, Massachusetts Institute of Technology  
 *Sep 2019&ndash;May 2020*
-- **MBA**, National University of Singapore (Specializations in Consulting and Healthcare Management)  
-*Aug 2023&ndash;present*
 - **BS, Physics (with Honor)**, California Institute of Technology  
 *Sep 2009&ndash;May 2013*
 
