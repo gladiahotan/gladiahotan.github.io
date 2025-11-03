@@ -1,10 +1,9 @@
 ## About Me
 
-I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) on human behavioral and neuroimaging studies. 
+I am a computational neuroscientist (IHPC, A*STAR, Singapore) with experience in neuroimaging, cognitive science and clinical data analytics. I collaborate actively with clinicians and university academics, contributing technical expertise in areas such as EEG data analysis, cognitive experiment design and implementation, and scientific coding. 
 
-I am currently pursuing a part-time MBA at the National University of Singapore (NUS) with dual specializations in Consulting and Healthcare Management. I recently initiated and led a committee to organize the first-ever NUS MBA Healthcare Case Competition. The competition attracted 128 participants from 26 schools across 13 countries [[LinkedIn post]](https://www.linkedin.com/posts/gladia-hotan_the-inaugural-nus-mba-healthcare-case-competition-activity-7335156970389209088-kGSn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1jWbMBaDghXMluPTIDn405-skklB8mufI).
+I’m interested in leveraging my scientific expertise to solve real-world business problems. To that end, I’m currently pursuing a part-time MBA (NUS, Singapore) with dual specializations in Consulting and Healthcare Management. I initiated and led a committee to organize the first-ever NUS MBA Healthcare Case Competition, which attracted 128 participants from 26 schools across 13 countries [[LinkedIn post]](https://www.linkedin.com/posts/gladia-hotan_the-inaugural-nus-mba-healthcare-case-competition-activity-7335156970389209088-kGSn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1jWbMBaDghXMluPTIDn405-skklB8mufI).
 
-Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248/).
 
 ## Education
 - **MBA (part-time)**, National University of Singapore (Specializations in Consulting and Healthcare Management)  
@@ -24,7 +23,8 @@ Here is my [LinkedIn profile](https://www.linkedin.com/in/gladia-hotan-26bb03248
 - **Research Engineer**, Institute for Infocomm Research & Institute of Microelectronics, A\*STAR  
 *Jul 2013&ndash;Jul 2014*
 
-## Curriculum Vitae
+## Links
+[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
 [CV](https://gladiahotan.github.io/CV_GladiaHotan.pdf) 
 
 
