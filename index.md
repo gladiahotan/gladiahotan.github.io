@@ -24,8 +24,8 @@ I’m interested in leveraging my scientific expertise to solve real-world busin
 *Jul 2013&ndash;Jul 2014*
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
-
 [CV](https://gladiahotan.github.io/CV_GladiaHotan.pdf) 
 
+[LinkedIn](https://www.linkedin.com/in/gladia-hotan-26bb03248/)
 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=r9zzv4EAAAAJ)
