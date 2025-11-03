@@ -1,6 +1,6 @@
 ## About Me
 
-I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) on behavioral and neuroimaging studies. 
+I am a computational neuroscientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR), Singapore. I work in the department of [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) on human behavioral and neuroimaging studies. 
 
 I am currently pursuing a part-time MBA at the National University of Singapore (NUS) with dual specializations in Consulting and Healthcare Management. I recently initiated and led a committee to organize the first-ever NUS MBA Healthcare Case Competition. The competition attracted 128 participants from 26 schools across 13 countries [[LinkedIn post]](https://www.linkedin.com/posts/gladia-hotan_the-inaugural-nus-mba-healthcare-case-competition-activity-7335156970389209088-kGSn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1jWbMBaDghXMluPTIDn405-skklB8mufI).
 
